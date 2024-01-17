@@ -2,7 +2,7 @@
 
 # Live link
 
-        https://text-analyzer-seven.vercel.app/
+        https://text-analyzer-chi.vercel.app/
 
 ```js
     To locally setup the project, follow as given below:
