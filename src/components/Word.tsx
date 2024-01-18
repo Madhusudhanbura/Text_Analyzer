@@ -23,7 +23,7 @@ const Word = () => {
           Process Word
         </button>
       </div>
-      <WordTable words={words} characters={characters} />
+      <WordTable words={wordCount} characters={characterCount} />
       <div className="w-full p-3 flex flex-col border border-[#D2D6DB] mt-4">
         {data.map((row, index) => {
           return (
