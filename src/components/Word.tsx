@@ -1,5 +1,5 @@
 import React, {useState } from "react";
-
+import { data } from "../utils/data";
 import WordTable from "./WordTable";
 import { calculateTextMetrics } from "../utils/helper";
 
