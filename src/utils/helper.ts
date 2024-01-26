@@ -52,3 +52,4 @@ export function countParagraphOccurrences(inputText: string) {
   // Return the count of non-empty paragraphs
   return nonEmptyParagraphs.length;
 }
+

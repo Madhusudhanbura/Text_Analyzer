@@ -5,7 +5,6 @@ import React from "react";
 function App() {
   return (
     <div className="flex flex-col p-4 h-full w-full">
-      <div>
         <h1 className="font-medium text-5xl text-[#344054] max-md:text-center max-md:mt-5 font-inter">
           Text Analyzer
         </h1>
@@ -16,7 +15,6 @@ function App() {
           speak time of your content.
         </p>
         <WordParaComponent />
-      </div>
     </div>
   );
 }

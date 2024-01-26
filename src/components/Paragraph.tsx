@@ -13,7 +13,7 @@ const Paragraph = () => {
     paragraphCount, } = analyzeTextMetrics(para);
 
   return (
-    <div className="flex  w-full flex-col mt-3">
+    <div className="flex w-full flex-col mt-3">
       <textarea
         autoFocus
         rows={10}
